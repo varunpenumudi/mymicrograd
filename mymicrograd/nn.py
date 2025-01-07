@@ -1,4 +1,4 @@
-from tinygrad.scalar import Value
+from mymicrograd.scalar import Value
 import random
 
 class Module:
