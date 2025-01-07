@@ -5,11 +5,14 @@
 ## **Features**
 
 - **Back Propagation**: Compute gradients for backpropagation through a computational graph.
+
 - **Custom Operations**: Supports basic arithmetic operations along with activation functions (ReLU, Tanh, Exp), and more.
+
 - **Neural Network Building**: Create simple neural networks with layers and neurons, and perform forward and backward passes.
+
 - **Scalar Valued**: This is a Scalar valued engine. Focused on clarity and simplicity, perfect for learning how neural networks and gradient descent work under the hood.
 
-## **Installation**
+## **Cloning and importing**
 
 1. Clone the repository:
 
@@ -59,7 +62,7 @@ This simple code performs a series of operations and computes gradients for the 
 ## **Operations Supported**
 
 - **Arithmetic Operations**: `+`, `-`, `*`, `/`
-- **Activation Functions**: `ReLU()`, `Tanh()`, `Exp()`
+- **Activation Methods**: `relu()`, `tanh()`, `exp()`
 - **Backward Pass**: Compute gradients through the computational graph using the `.backward()` method.
 
 ## **Why mymicrograd?**
@@ -69,11 +72,3 @@ This library is designed for learning and teaching the core concepts behind neur
 ## **Acknowledgments**
 
 This project is heavily inspired by Andrej Karpathy's [micrograd](https://github.com/karpathy/micrograd).
-
-## **Contributing**
-
-Feel free to fork the repository, open issues, and submit pull requests. Contributions to improve the library, add features, or fix bugs are always welcome!
-
-## **License**
-
-This project is licensed under the MIT License.
