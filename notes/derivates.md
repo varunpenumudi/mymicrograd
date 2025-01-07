@@ -4,17 +4,6 @@
 
 - How much does output change for small changes in input
 
-\begin
-  {\Delta y \over \Delta x}
-\end
-
-- The general formula for derivative is:
-
-\begin
-  \lim_{h \to 0}\frac{f(x+h) - f(x)}{h}
-\end
-
-
 e = a\*b \
 d = e + c \
 L = d*f
