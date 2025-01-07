@@ -1,5 +1,7 @@
 # **mymicrograd**
 
+![alt text](assets/image.png)
+
 **mymicrograd** is an implementation of backpropagation and neural networks engine of Andrej Karpathy’s **micrograd**. This project provides a foundation for understanding the core concepts behind neural networks, gradient computation, and backpropagation in a simple, clean codebase.
 
 ## **Features**
